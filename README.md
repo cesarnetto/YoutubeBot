@@ -4,7 +4,7 @@ Este código é um script Python para um aplicativo de download do YouTube. Ele 
 
 ![downloader](downloader.png)
 
-## :chave: Requisitos
+## :wrench: Requisitos
 
 Para instalar as dependências necessárias, execute o seguinte comando:
 
@@ -20,4 +20,4 @@ python bot.py
 
 
 
-Copyright (c) 2023 Estevao Fonseca
+## Copyright (c) 2023 Estevao Fonseca
