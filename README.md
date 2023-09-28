@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## :runner: Uso
 
-Para executar o código no terminal, você precisaria salvá-lo em um arquivo, como downloader.py, e executá-lo usando o comando:
+Para executar o código no terminal, você precisaria salvá-lo em um arquivo, como bot.py, e executá-lo usando o comando:
 
 python bot.py
 
